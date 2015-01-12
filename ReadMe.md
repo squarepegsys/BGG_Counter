@@ -1,4 +1,4 @@
-== BGG 10x10 Forum post generator
+## BGG 10x10 Forum post generator
 
 This is based on work by eviljelloman from:
 http://nbviewer.ipython.org/gist/anonymous/861acb2a52fa6d1ad2e4
@@ -28,7 +28,7 @@ My usage is simple:
 
 Then paste into your 10x10 comment.
 
-==== Changes
+### Changes
 
 This is pretty much the original. I put the original notebook snippets into one script and made a fix so it accepts game plays without a comment
 
